@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/blog/AMPEE/</loc>
+      <loc>http://localhost:4000/blog/AMPEE/</loc>
       
         <lastmod>2022-09-12T00:00:00+02:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>/blog/Floramac/</loc>
+      <loc>http://localhost:4000/blog/Floramac/</loc>
       
         <lastmod>2022-09-12T00:00:00+02:00</lastmod>
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>/blog/antoine/</loc>
+      <loc>http://localhost:4000/blog/antoine/</loc>
       
         <lastmod>2022-03-30T00:00:00+02:00</lastmod>
       
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>/blog/guad/</loc>
+      <loc>http://localhost:4000/blog/guad/</loc>
       
         <lastmod>2022-02-02T00:00:00+01:00</lastmod>
       
@@ -38,7 +38,7 @@
     </url>
   
     <url>
-      <loc>/blog/lucie/</loc>
+      <loc>http://localhost:4000/blog/lucie/</loc>
       
         <lastmod>2021-12-12T00:00:00+01:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>/blog/herbariumvideo/</loc>
+      <loc>http://localhost:4000/blog/herbariumvideo/</loc>
       
         <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       
@@ -56,7 +56,7 @@
     </url>
   
     <url>
-      <loc>/blog/herbarium/</loc>
+      <loc>http://localhost:4000/blog/herbarium/</loc>
       
         <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       
@@ -65,7 +65,7 @@
     </url>
   
     <url>
-      <loc>/blog/romania/</loc>
+      <loc>http://localhost:4000/blog/romania/</loc>
       
         <lastmod>2021-09-16T00:00:00+02:00</lastmod>
       
@@ -74,7 +74,7 @@
     </url>
   
     <url>
-      <loc>/blog/IAL9/</loc>
+      <loc>http://localhost:4000/blog/IAL9/</loc>
       
         <lastmod>2021-08-05T00:00:00+02:00</lastmod>
       
@@ -83,7 +83,7 @@
     </url>
   
     <url>
-      <loc>/blog/guadeloupe/</loc>
+      <loc>http://localhost:4000/blog/guadeloupe/</loc>
       
         <lastmod>2021-05-05T00:00:00+02:00</lastmod>
       
@@ -92,7 +92,7 @@
     </url>
   
     <url>
-      <loc>/blog/interviews/</loc>
+      <loc>http://localhost:4000/blog/interviews/</loc>
       
         <lastmod>2021-04-23T00:00:00+02:00</lastmod>
       
@@ -101,7 +101,7 @@
     </url>
   
     <url>
-      <loc>/blog/adjudant/</loc>
+      <loc>http://localhost:4000/blog/adjudant/</loc>
       
         <lastmod>2020-12-22T00:00:00+01:00</lastmod>
       
@@ -110,7 +110,7 @@
     </url>
   
     <url>
-      <loc>/blog/elise/</loc>
+      <loc>http://localhost:4000/blog/elise/</loc>
       
         <lastmod>2020-12-12T00:00:00+01:00</lastmod>
       
@@ -119,7 +119,7 @@
     </url>
   
     <url>
-      <loc>/blog/fundingtaiwan/</loc>
+      <loc>http://localhost:4000/blog/fundingtaiwan/</loc>
       
         <lastmod>2020-11-30T00:00:00+01:00</lastmod>
       
@@ -128,7 +128,7 @@
     </url>
   
     <url>
-      <loc>/blog/Antoine_thesis/</loc>
+      <loc>http://localhost:4000/blog/Antoine_thesis/</loc>
       
         <lastmod>2020-10-20T00:00:00+02:00</lastmod>
       
@@ -137,7 +137,7 @@
     </url>
   
     <url>
-      <loc>/blog/position/</loc>
+      <loc>http://localhost:4000/blog/position/</loc>
       
         <lastmod>2020-10-01T00:00:00+02:00</lastmod>
       
@@ -146,7 +146,7 @@
     </url>
   
     <url>
-      <loc>/blog/Ramalinaceae/</loc>
+      <loc>http://localhost:4000/blog/Ramalinaceae/</loc>
       
         <lastmod>2020-09-17T00:00:00+02:00</lastmod>
       
@@ -155,7 +155,7 @@
     </url>
   
     <url>
-      <loc>/blog/festschrift/</loc>
+      <loc>http://localhost:4000/blog/festschrift/</loc>
       
         <lastmod>2020-06-02T00:00:00+02:00</lastmod>
       
@@ -164,7 +164,7 @@
     </url>
   
     <url>
-      <loc>/blog/welcome-to-massively-the-jekyll-theme/</loc>
+      <loc>http://localhost:4000/blog/welcome-to-massively-the-jekyll-theme/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -174,7 +174,7 @@
   
   
     <url>
-      <loc>/perso/Kasprzyk/</loc>
+      <loc>http://localhost:4000/perso/Kasprzyk/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -184,7 +184,7 @@
      </url>
   
     <url>
-      <loc>/perso/Lebreton/</loc>
+      <loc>http://localhost:4000/perso/Lebreton/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -194,7 +194,7 @@
      </url>
   
     <url>
-      <loc>/perso/Lelotte/</loc>
+      <loc>http://localhost:4000/perso/Lelotte/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -204,7 +204,7 @@
      </url>
   
     <url>
-      <loc>/perso/Magain/</loc>
+      <loc>http://localhost:4000/perso/Magain/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -214,7 +214,7 @@
      </url>
   
     <url>
-      <loc>/perso/Mirolo/</loc>
+      <loc>http://localhost:4000/perso/Mirolo/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -224,7 +224,7 @@
      </url>
   
     <url>
-      <loc>/perso/Mouton/</loc>
+      <loc>http://localhost:4000/perso/Mouton/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -234,7 +234,7 @@
      </url>
   
     <url>
-      <loc>/perso/Salces/</loc>
+      <loc>http://localhost:4000/perso/Salces/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -244,7 +244,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/about/</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/about/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -254,7 +254,7 @@
      </url>
   
     <url>
-      <loc>/about/</loc>
+      <loc>http://localhost:4000/about/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -264,7 +264,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/about.css</loc>
+      <loc>http://localhost:4000/assets/css/about.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -274,7 +274,7 @@
      </url>
   
     <url>
-      <loc>/blog/</loc>
+      <loc>http://localhost:4000/blog/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -284,7 +284,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/blog/</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/blog/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -294,7 +294,7 @@
      </url>
   
     <url>
-      <loc>/elements/</loc>
+      <loc>http://localhost:4000/elements/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -304,7 +304,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/elements/</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/elements/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -314,7 +314,7 @@
      </url>
   
     <url>
-      <loc>/friends/</loc>
+      <loc>http://localhost:4000/friends/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -324,7 +324,7 @@
      </url>
   
     <url>
-      <loc>/</loc>
+      <loc>http://localhost:4000/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -334,7 +334,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -344,7 +344,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/assets/css/main.css</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/assets/css/main.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -354,7 +354,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/main.css</loc>
+      <loc>http://localhost:4000/assets/css/main.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -364,7 +364,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/main2.css</loc>
+      <loc>http://localhost:4000/assets/css/main2.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -374,7 +374,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/noscript.css</loc>
+      <loc>http://localhost:4000/assets/css/noscript.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -384,7 +384,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/assets/css/noscript.css</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/assets/css/noscript.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -394,7 +394,7 @@
      </url>
   
     <url>
-      <loc>/publications/</loc>
+      <loc>http://localhost:4000/publications/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -404,7 +404,7 @@
      </url>
   
     <url>
-      <loc>/research/</loc>
+      <loc>http://localhost:4000/research/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -414,7 +414,7 @@
      </url>
   
     <url>
-      <loc>/resources/</loc>
+      <loc>http://localhost:4000/resources/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -424,7 +424,7 @@
      </url>
   
     <url>
-      <loc>/sitemap.xml</loc>
+      <loc>http://localhost:4000/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -434,7 +434,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/sitemap.xml</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -444,7 +444,7 @@
      </url>
   
     <url>
-      <loc>/teaching/</loc>
+      <loc>http://localhost:4000/teaching/</loc>
        <lastmod>2020-04-09T00:00:00+02:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -454,7 +454,7 @@
      </url>
   
     <url>
-      <loc>/team%20copy/</loc>
+      <loc>http://localhost:4000/team%20copy/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -464,7 +464,7 @@
      </url>
   
     <url>
-      <loc>/team/</loc>
+      <loc>http://localhost:4000/team/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -474,7 +474,7 @@
      </url>
   
     <url>
-      <loc>/thank-you/</loc>
+      <loc>http://localhost:4000/thank-you/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -484,7 +484,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/thank-you/</loc>
+      <loc>http://localhost:4000/jekyll-theme-massively-master/thank-you/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -494,7 +494,7 @@
      </url>
   
     <url>
-      <loc>/robots.txt</loc>
+      <loc>http://localhost:4000/robots.txt</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -504,7 +504,7 @@
      </url>
   
     <url>
-      <loc>/feed.xml</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -514,7 +514,7 @@
      </url>
   
     <url>
-      <loc>/blog/page2/</loc>
+      <loc>http://localhost:4000/blog/page2/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -524,7 +524,7 @@
      </url>
   
     <url>
-      <loc>/blog/page3/</loc>
+      <loc>http://localhost:4000/blog/page3/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -534,7 +534,7 @@
      </url>
   
     <url>
-      <loc>/blog/page4/</loc>
+      <loc>http://localhost:4000/blog/page4/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
