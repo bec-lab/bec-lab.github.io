@@ -4,7 +4,7 @@
     <url>
       <loc>/blog/AMPEE/</loc>
       
-        <lastmod>2022-09-12T00:00:00+02:00</lastmod>
+        <lastmod>2022-09-29T00:00:00+02:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -372,7 +372,7 @@
      </url>
   
     <url>
-      <loc>/sitemap.xml</loc>
+      <loc>/jekyll-theme-massively-master/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -382,7 +382,7 @@
      </url>
   
     <url>
-      <loc>/jekyll-theme-massively-master/sitemap.xml</loc>
+      <loc>/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -394,16 +394,6 @@
     <url>
       <loc>/teaching/</loc>
        <lastmod>2020-04-09T00:00:00+02:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>/team%20copy/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
