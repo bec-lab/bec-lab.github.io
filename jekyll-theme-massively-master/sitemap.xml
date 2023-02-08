@@ -29,6 +29,15 @@
     </url>
   
     <url>
+      <loc>/blog/LucieEurolynx/</loc>
+      
+        <lastmod>2022-10-01T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/blog/AMPEE/</loc>
       
         <lastmod>2022-09-29T00:00:00+02:00</lastmod>
@@ -41,6 +50,24 @@
       <loc>/blog/Floramac/</loc>
       
         <lastmod>2022-09-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/LucieBESME/</loc>
+      
+        <lastmod>2022-09-01T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/LucieECCB/</loc>
+      
+        <lastmod>2022-08-01T00:00:00+02:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -500,6 +527,16 @@
   
     <url>
       <loc>/blog/page4/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/blog/page5/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
