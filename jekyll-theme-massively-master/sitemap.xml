@@ -65,6 +65,15 @@
     </url>
   
     <url>
+      <loc>/blog/Canary/</loc>
+      
+        <lastmod>2023-05-31T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/blog/Margaux/</loc>
       
         <lastmod>2023-05-14T00:00:00+02:00</lastmod>
@@ -131,6 +140,15 @@
       <loc>/blog/Robert/</loc>
       
         <lastmod>2023-01-21T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/CDR/</loc>
+      
+        <lastmod>2022-12-13T00:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -683,6 +701,16 @@
   
     <url>
       <loc>/blog/page7/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/blog/page8/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
