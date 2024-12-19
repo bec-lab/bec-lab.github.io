@@ -11,6 +11,33 @@
     </url>
   
     <url>
+      <loc>/blog/Guacamol/</loc>
+      
+        <lastmod>2024-12-05T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/Epifor/</loc>
+      
+        <lastmod>2024-12-01T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/BryoLunch/</loc>
+      
+        <lastmod>2024-11-27T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/blog/MargauxVienna/</loc>
       
         <lastmod>2024-10-18T00:00:00+02:00</lastmod>
@@ -20,9 +47,45 @@
     </url>
   
     <url>
+      <loc>/blog/IMC_mushroom_excursion/</loc>
+      
+        <lastmod>2024-08-17T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/IMC_excursion/</loc>
+      
+        <lastmod>2024-08-16T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/IBC/</loc>
+      
+        <lastmod>2024-07-28T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/blog/MargauxSecond/</loc>
       
         <lastmod>2024-05-01T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/BufferCanopy/</loc>
+      
+        <lastmod>2024-03-01T00:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -747,6 +810,16 @@
   
     <url>
       <loc>/blog/page8/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/blog/page9/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
